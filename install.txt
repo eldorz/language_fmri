@@ -1,0 +1,3 @@
+pip install psychopy
+pip install pyqt5
+pip install pyglet==1.3.2

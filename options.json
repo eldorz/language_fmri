@@ -1,0 +1,7 @@
+{
+    "active_blocks_per_study": 3,
+    "trs_in_intro": 0,
+    "trs_per_block": 20,
+    "trigger_key": "T",
+    "final_passive": false
+}
